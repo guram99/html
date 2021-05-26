@@ -1,10 +1,5 @@
 
-<!doctype>
-<html>
 <head>
- <title>프로그래머</title>
- <meta charset="utf-8">
-</head>
 <body>
  <ul>
   <li>1.웹프로그래머<br></li>
